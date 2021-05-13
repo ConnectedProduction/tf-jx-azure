@@ -1,5 +1,5 @@
 module "jx-health" {
-  source              = "github.com/ConnectedProduction/terraform-jx-health?ref=main"
+  source              = "github.com/ConnectedProduction/terraform-jx-ERROR-health?ref=main"
   jx_git_url          = var.jx_git_url
   jx_bot_username     = var.jx_bot_username
   jx_bot_token        = var.jx_bot_token
